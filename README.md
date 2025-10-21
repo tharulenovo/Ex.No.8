@@ -48,6 +48,18 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+ ### Sample Input–Output Prompt Table
+
+ <img width="1050" height="223" alt="image" src="https://github.com/user-attachments/assets/fbff6300-04a1-45db-b046-7e6844e91a93" />
+
+ Prompt:A realistic mountain landscape during sunset with purple mountains, a calm river,reflecting the orange sky, soft clouds, and pine trees in the foreground.
+
+ <img width="996" height="667" alt="image" src="https://github.com/user-attachments/assets/b0c8b79e-092c-4df6-86f9-fe36c4e3f5db" />
+
+ Prompt: A realistic city street at night with glowing streetlights, wet pavement reflecting,neon signs, a few pedestrians walking, and tall buildings in the background.
+
+ <img width="791" height="789" alt="image" src="https://github.com/user-attachments/assets/9caed6ae-aa64-488b-8093-cae81e3b67f5" />
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
